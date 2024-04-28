@@ -1,0 +1,14 @@
+C:\Users\Lyubomir Palazov\source\repos\Masivi\Masiv3\bin\Debug\net8.0\Masiv3.exe
+C:\Users\Lyubomir Palazov\source\repos\Masivi\Masiv3\bin\Debug\net8.0\Masiv3.deps.json
+C:\Users\Lyubomir Palazov\source\repos\Masivi\Masiv3\bin\Debug\net8.0\Masiv3.runtimeconfig.json
+C:\Users\Lyubomir Palazov\source\repos\Masivi\Masiv3\bin\Debug\net8.0\Masiv3.dll
+C:\Users\Lyubomir Palazov\source\repos\Masivi\Masiv3\bin\Debug\net8.0\Masiv3.pdb
+C:\Users\Lyubomir Palazov\source\repos\Masivi\Masiv3\obj\Debug\net8.0\Masiv3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lyubomir Palazov\source\repos\Masivi\Masiv3\obj\Debug\net8.0\Masiv3.AssemblyInfoInputs.cache
+C:\Users\Lyubomir Palazov\source\repos\Masivi\Masiv3\obj\Debug\net8.0\Masiv3.AssemblyInfo.cs
+C:\Users\Lyubomir Palazov\source\repos\Masivi\Masiv3\obj\Debug\net8.0\Masiv3.csproj.CoreCompileInputs.cache
+C:\Users\Lyubomir Palazov\source\repos\Masivi\Masiv3\obj\Debug\net8.0\Masiv3.dll
+C:\Users\Lyubomir Palazov\source\repos\Masivi\Masiv3\obj\Debug\net8.0\refint\Masiv3.dll
+C:\Users\Lyubomir Palazov\source\repos\Masivi\Masiv3\obj\Debug\net8.0\Masiv3.pdb
+C:\Users\Lyubomir Palazov\source\repos\Masivi\Masiv3\obj\Debug\net8.0\Masiv3.genruntimeconfig.cache
+C:\Users\Lyubomir Palazov\source\repos\Masivi\Masiv3\obj\Debug\net8.0\ref\Masiv3.dll
